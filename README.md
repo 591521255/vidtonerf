@@ -1,5 +1,5 @@
 # Intermediary backend
-## This repository contains mosst of the intermediary API services/libraries to connect the actual NeRF rendering engine to the front end.
+## This repository contains most of the intermediary API services/libraries to connect the actual NeRF rendering engine to the front end.
 ## The bulk of this project will be the Flask API for the frontend to relay data and information on the video to process and how to process it.
 ## The NeRF engine can then take that information, render the video, and relay the processed result back to the frontend.
 </br>
